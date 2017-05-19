@@ -1,0 +1,463 @@
+2017-05-19 11:50:46 Error: [MissingControllerException] Controller class PersonsController could not be found.
+Exception Attributes: array (
+  'class' => 'PersonsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/persons
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 11:50:55 Error: [MissingControllerException] Controller class PersonsController could not be found.
+Exception Attributes: array (
+  'class' => 'PersonsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/persons/index
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 11:50:59 Error: [MissingControllerException] Controller class PersonController could not be found.
+Exception Attributes: array (
+  'class' => 'PersonController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/person/index
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 11:51:16 Error: [MissingControllerException] Controller class PersonController could not be found.
+Exception Attributes: array (
+  'class' => 'PersonController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/person/edit
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 11:51:20 Error: [MissingControllerException] Controller class PersonsController could not be found.
+Exception Attributes: array (
+  'class' => 'PersonsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/persons/edit
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 12:01:06 Error: [MissingControllerException] Controller class PersonsController could not be found.
+Exception Attributes: array (
+  'class' => 'PersonsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/persons/edit
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 13:06:06 Error: [MissingControllerException] Controller class ZipController could not be found.
+Exception Attributes: array (
+  'class' => 'ZipController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/Zip
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 15:23:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/js/jquery-git.js
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 15:23:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/js/jquery-git.js
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 15:25:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/js/jquery-git.js
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 15:27:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/js/jquery-git.js
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 15:28:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/js/jquery-git.js
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 15:31:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/js/jquery-git.js
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 15:31:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/js/jquery-git.js
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 15:32:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/js/jquery-git.js
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-05-19 15:34:28 Error: [NotFoundException] Invalid buser
+Request URL: /cakephpe/Busers/edit/get_zip.php?zipcode=932
+Stack Trace:
+#0 [internal function]: BusersController->edit('get_zip.php')
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(BusersController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BusersController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 15:37:07 Error: [NotFoundException] Invalid buser
+Request URL: /cakephpe/Busers/edit/get_zip.php?zipcode=932
+Stack Trace:
+#0 [internal function]: BusersController->edit('get_zip.php')
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(BusersController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BusersController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 15:37:30 Error: [NotFoundException] Invalid buser
+Request URL: /cakephpe/Busers/edit/zip/zip_list?zipcode=932
+Stack Trace:
+#0 [internal function]: BusersController->edit('zip', 'zip_list')
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(BusersController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BusersController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:02:08 Error: [MissingActionException] Action ZipsController::list_zip() could not be found.
+Exception Attributes: array (
+  'controller' => 'ZipsController',
+  'action' => 'list_zip',
+)
+Request URL: /cakephpe/zips/list_zip
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#2 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-05-19 16:03:27 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/zips/zip_list
+Stack Trace:
+#0 [internal function]: ZipsController->zip_list()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:05:44 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/zip_list
+Stack Trace:
+#0 [internal function]: ZipsController->zip_list()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:08:40 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/zips/zip_list
+Stack Trace:
+#0 [internal function]: ZipsController->zip_list()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:09:11 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/zip_list
+Stack Trace:
+#0 [internal function]: ZipsController->zip_list()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:09:57 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:10:22 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:11:28 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:11:30 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:11:46 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:11:50 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:12:24 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:12:57 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:13:12 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:14:30 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:14:32 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:15:44 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:15:47 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:15:51 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:16:13 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/Zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:16:33 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/Zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:26:48 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:31:06 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/Zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:34:16 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/Zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:35:26 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/Zips/zipList
+Stack Trace:
+#0 [internal function]: ZipsController->zipList()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:35:45 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/Zips/zipList
+Stack Trace:
+#0 [internal function]: ZipsController->zipList()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:35:58 Error: [BadRequestException] Bad Request
+Request URL: /cakephpe/zips/ziplist
+Stack Trace:
+#0 [internal function]: ZipsController->zipList()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:50:34 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/Zips/zipList
+Stack Trace:
+#0 [internal function]: ZipsController->zipList()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:52:21 Error: [MissingActionException] Action ZipsController::zipList() could not be found.
+Exception Attributes: array (
+  'controller' => 'ZipsController',
+  'action' => 'zipList',
+)
+Request URL: /cakephpe/Zips/zipList?zipcode=2220037
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#2 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-05-19 16:53:14 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/Zips/zipList?zipcode=2220037
+Stack Trace:
+#0 [internal function]: ZipsController->ziplist()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:54:14 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/Zips/zipList?zipcode=2220037
+Stack Trace:
+#0 [internal function]: ZipsController->zipList()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:55:33 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/Zips/zipList?zipcode=2220037
+Stack Trace:
+#0 [internal function]: ZipsController->zipList()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-05-19 16:58:55 Error: [NotFoundException] Not Found
+Request URL: /cakephpe/Zips/zipList?zipcode=932
+Stack Trace:
+#0 [internal function]: ZipsController->zipList()
+#1 /var/www/html/vagrant/cakephpe/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ZipsController), Array)
+#2 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/vagrant/cakephpe/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ZipsController), Object(CakeRequest))
+#4 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}

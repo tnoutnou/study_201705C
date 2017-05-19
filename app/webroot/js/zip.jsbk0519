@@ -1,0 +1,31 @@
+$(function() {
+
+    $('#tran-btn').click(function() {
+        
+        $.ajax({
+			type: 'GET',
+			dataType: 'json',
+			async: false,
+			url: '/cakephpe/Zips/zipList',
+			data: {
+				'zipcode': $('#BuserZipCode').val()
+				},
+	}).done(function(data) {
+//		if(data.status) {
+            $('#BuserKenNameKan').val(data.ken_name_kan);
+            $('#BuserCityNameKan').val(data.city_name_kan);
+            $('#BuserTownNameKan').val(data.town_name_kan);
+//		} else {
+			//alert(data.message);
+//		}
+	}).fail(function(data) {
+			//alert('error!');
+            $('#BuserKenNameKan').val(data.ken_name_kan);
+            $('#BuserCityNameKan').val(data.city_name_kan);
+            $('#BuserTownNameKan').val(data.town_name_kan);
+	});
+});
+});
+	
+
+
