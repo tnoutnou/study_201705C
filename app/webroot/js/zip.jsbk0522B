@@ -14,13 +14,12 @@ $(function() {
 	        $(this).remove();
 		});
 
-		if ($('#BuserZipCode').val() != false) {
 		
         $.get('/cakephpe/Zips/zipList',  {
 				'zipcode': $('#BuserZipCode').val()
 		}, function(data) {
 
-			if (data.length == 1) {
+			if (data.length = 1) {
 				$('#BuserKenNameKan').val(data[0].ken_name_kan);
 				$('#BuserCityNameKan').val(data[0].city_name_kan);
 				$('#BuserTownNameKan').val(data[0].town_name_kan);
@@ -35,15 +34,16 @@ $(function() {
 				$('#zip-sel').fadeIn(100);
 				$('#popup-sel').fadeIn(100);
 				$('#popup-background').fadeIn(100);
+				
 			} else {
 				$('#BuserKenNameKan').val("");
 				$('#BuserCityNameKan').val("");
 				$('#BuserTownNameKan').val("");
 			}
+
 			
 		});
 		
-		};
 		
 	});
 	

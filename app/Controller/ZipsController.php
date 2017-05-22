@@ -123,13 +123,11 @@ class ZipsController extends AppController {
 //		$result = $this->Zip->find('first', $options);
 		$result = $this->Zip->find('all',$options);
 		
-//		debug($result);
-//		debug('3');
-		
 
 //		$this->log('LOG!1');
 //		$this->log($result);
 
+		$rst = array();
 		
 		foreach ($result as $rs){
 
@@ -165,8 +163,8 @@ class ZipsController extends AppController {
 		
 		}
 
-		$this->log('LOG!3');
-		$this->log($rst);
+//		$this->log('LOG!3');
+//		$this->log($rst);
 		
 		
 //		debug($rst);
@@ -174,7 +172,7 @@ class ZipsController extends AppController {
 				
 		$status = !empty($result);
 		if(!$status) {
-			throw new NotFoundException();
+//			throw new NotFoundException();
 			$error = array(
 				'message' => 'データがありません',
 				'code' => 404
@@ -182,7 +180,6 @@ class ZipsController extends AppController {
 		}
 		
 		// json_encodeを使用してJSON形式で返却
-//		return json_encode(compact('status', 'rst', 'error'));		
 		header('Content-Type: application/json; charset=utf-8');
 		echo json_encode($rst);
 
