@@ -120,20 +120,58 @@ class ZipsController extends AppController {
 		
 		// zipcode を受け取る 
 		$options = array('conditions' => array('Zip.zip_code like' => str_replace('-','', $_GET['zipcode']) . '%'));
-		$result = $this->Zip->find('first', $options);
+//		$result = $this->Zip->find('first', $options);
+		$result = $this->Zip->find('all',$options);
 		
 //		debug($result);
 //		debug('3');
 		
-		$rst = array(
-			"ken_name_kan"  => $result['Zip']['ken_name_kan'],
-			"city_name_kan" => $result['Zip']['city_name_kan'],
-			"town_name_kan" => $result['Zip']['town_name_kan']
-		);
 
+//		$this->log('LOG!1');
+//		$this->log($result);
+
+		
+		foreach ($result as $rs){
+
+//			$this->log('LOG!2');
+//			$this->log($rs);
+	
+//			$rst[] = 
+//				$rs['Zip']['ken_name_kan'] . $rs['Zip']['city_name_kan'] . $rs['Zip']['town_name_kan']
+//				;
+
+			$rst[] = array(
+				"zip_code"  => $rs['Zip']['zip_code'],
+				"ken_name_kan"  => $rs['Zip']['ken_name_kan'],
+				"city_name_kan" => $rs['Zip']['city_name_kan'],
+				"town_name_kan" => $rs['Zip']['town_name_kan']
+				);
+	
+//			$rst = $rst + array(
+//				"ken_name_kan"  => $rs['ken_name_kan'],
+//				"city_name_kan" => $rs['city_name_kan'],
+//				"town_name_kan" => $rs['town_name_kan']
+//			);
+				
+//			$rst = array(
+//				$rs['Zip']['ken_name_kan'] . $rs['Zip']['city_name_kan'] . $rs['Zip']['town_name_kan']
+//				);
+
+//			$rst = array(
+//				"ken_name_kan"  => $result['Zip']['ken_name_kan'],
+//				"city_name_kan" => $result['Zip']['city_name_kan'],
+//				"town_name_kan" => $result['Zip']['town_name_kan']
+//			);
+		
+		}
+
+		$this->log('LOG!3');
+		$this->log($rst);
+		
+		
 //		debug($rst);
-		
-		
+//		return;
+				
 		$status = !empty($result);
 		if(!$status) {
 			throw new NotFoundException();

@@ -1,0 +1,101 @@
+@charset "utf-8";
+/**
+ * Generic CSS for CakePHP
+ *
+ * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
+ * Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
+ *
+ * Licensed under The MIT License
+ * For full copyright and license information, please see the LICENSE.txt
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @copyright     Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
+ * @link          http://cakephp.org CakePHP(tm) Project
+ * @package       app.webroot.css
+ * @license       http://www.opensource.org/licenses/mit-license.php MIT License
+ */
+
+ /*
+
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background: #003d4c;
+	color: #fff;
+	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
+	font-size:90%;
+	margin: 0;
+}
+a {
+	color: #003d4c;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+*/
+
+
+.blogposts {
+	float: left !important;
+}
+
+.blogaction {
+	float: right !important;
+}
+
+
+#search-btn {
+	width : 90px;
+}
+
+#popup-background{
+    position:fixed;     /* 位置の固定 */
+    top: 0;             /* 表示位置 */
+    left: 0;            /* 表示位置 */
+    height: 100%;       /* 画面全体に表示 */
+    width: 100%;        /* 画面全体に表示 */
+    background:#000;    /* 背景色 */
+    opacity: 0.60;      /* 透明度 */
+    margin: 0;          /* 余白の削除 */
+    padding: 0;         /* 余白の削除 */
+    z-index:1000;       /* 要素のz座標 */
+}
+
+#zip-sel{
+/*    position:fixed;     /* 位置の固定 */
+/*    top: 30%;           /* 表示位置(真ん中に表示) */
+ /*   left: 30%;          /* 表示位置(真ん中に表示) */
+    margin: 0;          /* 余白の削除 */
+    padding: 0;         /* 余白の削除 */
+	cursor:pointer;
+    z-index:1001;       /* 要素のz座標 */
+}
+
+
+#popup-sel{
+    position:fixed;     /* 位置の固定 */
+    top: 30%;           /* 表示位置(真ん中に表示) */
+    left: 30%;          /* 表示位置(真ん中に表示) */
+    margin: 0;          /* 余白の削除 */
+    padding: 0;         /* 余白の削除 */
+    z-index:1002;       /* 要素のz座標 */
+	color: white;
+	font-size: 16px;
+}
+
+/** Paging **/
+
+
+
+
+
+
+
+
+
+
+
+
