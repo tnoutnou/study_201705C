@@ -16,7 +16,7 @@ $(function() {
 
 		if ($('#BuserZipCode').val() != false) {
 		
-        $.get('/cakephpe/Zips/zipList',  {
+        $.get('/Zips/zipList',  {
 				'zipcode': $('#BuserZipCode').val()
 		}, function(data) {
 

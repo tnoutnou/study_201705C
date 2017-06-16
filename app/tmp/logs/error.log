@@ -20828,3 +20828,120 @@ Stack Trace:
 #3 /var/www/html/vagrant/cakephpe/lib/Cake/Core/App.php(943): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2017-05-31 17:03:29 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/users/login
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-06 11:42:49 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/busers/
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-06 11:42:56 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/busers/login
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-06 11:43:00 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/busers/add
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-06 11:43:05 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 16:30:10 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/Zips/zipList?zipcode=928002
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 16:30:12 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/Zips/zipList?zipcode=928002
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 16:30:19 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/Zips/zipList?zipcode=922002
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 16:30:21 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/Zips/zipList?zipcode=92200
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 16:30:27 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/Zips/zipList?zipcode=932
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 16:30:34 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/Zips/zipList?zipcode=93202
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 16:30:40 Error: [MissingControllerException] Controller class CakephpeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpeController',
+  'plugin' => NULL,
+)
+Request URL: /cakephpe/Zips/zipList?zipcode=222
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-09 18:22:39 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /var/www/html/vagrant/cakephpe/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
